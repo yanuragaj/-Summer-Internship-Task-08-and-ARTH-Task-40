@@ -1,4 +1,4 @@
-# -Summer-Internship-Task-08-and-ARTH-Task-40
+# Summer-Internship-Task-08-and-ARTH-Task-40
 Object Recognition using CNN model
 
 Task Description 📄
